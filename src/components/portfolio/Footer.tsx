@@ -9,7 +9,7 @@ export function Footer() {
           <span className="grid h-8 w-8 place-items-center rounded-full bg-gradient-to-br from-primary to-primary-glow text-xs font-bold text-primary-foreground">
             {profile.initials}
           </span>
-          <span>© {new Date().getFullYear()} {profile.name}. Crafted with care.</span>
+          <span>© {new Date().getFullYear()} {profile.name}. Designed & Developed with passion.</span>
         </div>
         <div className="flex items-center gap-4 text-muted-foreground">
           <a href={profile.github} aria-label="GitHub" className="transition hover:text-foreground"><Github className="h-4 w-4" /></a>
