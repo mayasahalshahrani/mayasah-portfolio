@@ -53,7 +53,7 @@ export const profile = {
   email: "mayasahcv@gmail.com",
   github: "https://github.com/mayasahalshahrani",
   linkedin: "https://www.linkedin.com/in/mayasah-raqae",
-  cvUrl: "https://drive.google.com/file/d/10tKOZl6L5dm2e7tKZytRZ_KcKsOqcTJn/view?usp=sharing",
+  cvUrl: "https://drive.google.com/file/d/16IzOSXmW7NbD6PYecPjibN-xAf6OHJBU/view?usp=sharing",
   titles: [
     "Computer Science Graduate",
     "AI Enthusiast",
